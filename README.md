@@ -1,7 +1,3 @@
-# Awesome_IsoModules
-List
-
----
 
 # 📦 Awesome IsoModules
 
